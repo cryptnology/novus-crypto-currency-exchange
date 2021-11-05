@@ -1,0 +1,4 @@
+# Novus Crypto Currency Exchange
+
+Exchange Contract Address: 0xE245890c7bB9CEa06fB325F033EeD0D90eE60166
+Token Contract Address: 0x1fe515EC6232448c9a5bBcee298fdB0a513067e8
