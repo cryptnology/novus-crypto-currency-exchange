@@ -6,7 +6,12 @@ class Navbar extends Component {
   render() {
     return (
       <nav className='navbar navbar-expand-lg navbar-dark bg-primary'>
-        <a className='navbar-brand' href='#/'>
+        <a
+          className='navbar-brand'
+          href='https://cryptnology.dev'
+          target='_blank'
+          rel='noopener noreferrer'
+        >
           Novus Token Exchange
         </a>
         <button
