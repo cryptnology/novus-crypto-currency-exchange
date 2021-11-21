@@ -10,7 +10,11 @@ Please make sure you first have the [MetaMask](https://metamask.io/) browser ext
 
 ## Usage
 
-Please visit the [Novus Token Exchange](https://eu4cp-qaaaa-aaaad-qazda-cai.ic.fleek.co/) and have your MetaMask wallet connected to the Rinkeby test network.
+Please visit the [Novus Token Exchange](https://eu4cp-qaaaa-aaaad-qazda-cai.ic.fleek.co/) and have your MetaMask wallet connected to the Rinkeby test network. Deposit your ETH into the exchange so you can start buying the NOV token and selling it on the token exchange. After trading you can deposit the NOV token back into your own wallet. If you wish to see the NOV in your wallet, first go to the assets tab and at the bottom click on import tokens. Then add the token address which is located at the bomttom of this page, click add and then your done.
+
+Make sure you are on the Rinkeby test network and have ETH in your MetaMask wallet. If you need ETH you can visit the [Rinkeby Authenticated Faucet](https://faucet.rinkeby.io/).
+
+Please enjoy the DApp.
 
 ## Smart Contract Address
 
