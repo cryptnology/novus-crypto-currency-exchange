@@ -2,6 +2,10 @@
 
 A DApp to showcase my developer skills on the Ethereum blockchain ecosystem. Has a native cryptocurrency called 'Novus' (NOV) that can be traded on the decentralised exchange with Ethereum (ETH).
 
+## Demo
+
+A quick video of me demonstrating the functionality of the [Novus Token Exchange](https://youtu.be/c71ldRjYOzs) DApp.
+
 ![Novus Cryptocurrency Exchange](/public/novus_token_exchange.png 'Novus Token Exchange')
 
 ## Installation
